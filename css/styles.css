@@ -1,0 +1,19 @@
+body{
+  background: #AAD8D3;
+}
+hr{
+  border: none;
+  border-bottom: dotted 10px lightgray;
+  width: 4%;
+}
+h1{
+  color: #055052;
+}
+h3{
+  color:#055052;
+}
+a:hover{
+  text-decoration: none;
+  font-weight: bold;
+  color: #055052;
+}
